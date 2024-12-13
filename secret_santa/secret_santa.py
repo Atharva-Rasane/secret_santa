@@ -1,7 +1,7 @@
 import random
 
 
-def secetSanta(names):
+def shuffle(names):
     # Shuffle the list to randomize the order
     random.shuffle(names)
 
